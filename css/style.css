@@ -1,7 +1,7 @@
 body {
-    margin: 80px 10px 10px 10px;
     font-family: 'Open Sans', sans-serif;
     background-color: #e6eff4;
+    margin: 10px auto;
 }
 
 h1 {
@@ -17,7 +17,7 @@ p {
     color: #73777F;
     line-height: 150%;
     display: block;
-    margin: 0 5px 0 5px;
+    margin: auto 50px;
 }
 
 .content {
